@@ -68,5 +68,5 @@ Voici quelques projets que j'ai réalisés ou auxquels j'ai contribué :
 Vous pouvez me retrouver sur :
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cheikh-sarr)
 - 💼 [Portfolio personnel](#)
-- 📧 Email : cheikh.sarr@example.com
+- 📧 Email : cheikh.sarr@etu.univ-poitiers.fr
 
